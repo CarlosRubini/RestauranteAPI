@@ -1,5 +1,0 @@
-C:\Users\cadu-\Desktop\FACULDADE\4 SEMESTRE\APIRadio\RadioClasses\bin\Debug\RadioClasses.dll
-C:\Users\cadu-\Desktop\FACULDADE\4 SEMESTRE\APIRadio\RadioClasses\bin\Debug\RadioClasses.pdb
-C:\Users\cadu-\Desktop\FACULDADE\4 SEMESTRE\APIRadio\RadioClasses\obj\Debug\RadioClasses.csproj.CoreCompileInputs.cache
-C:\Users\cadu-\Desktop\FACULDADE\4 SEMESTRE\APIRadio\RadioClasses\obj\Debug\RadioClasses.dll
-C:\Users\cadu-\Desktop\FACULDADE\4 SEMESTRE\APIRadio\RadioClasses\obj\Debug\RadioClasses.pdb

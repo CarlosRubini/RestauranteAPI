@@ -1,0 +1,16 @@
+C:\Users\cadu-\Desktop\FACULDADE\5 SEMESTRE\APIRadio\RadioClasses\bin\Debug\RadioClasses.dll
+C:\Users\cadu-\Desktop\FACULDADE\5 SEMESTRE\APIRadio\RadioClasses\bin\Debug\RadioClasses.pdb
+C:\Users\cadu-\Desktop\FACULDADE\5 SEMESTRE\APIRadio\RadioClasses\obj\Debug\RestauranteClasses.csproj.CoreCompileInputs.cache
+C:\Users\cadu-\Desktop\FACULDADE\5 SEMESTRE\APIRadio\RadioClasses\obj\Debug\RadioClasses.dll
+C:\Users\cadu-\Desktop\FACULDADE\5 SEMESTRE\APIRadio\RadioClasses\obj\Debug\RadioClasses.pdb
+C:\Users\cadu-\Desktop\FACULDADE\5 SEMESTRE\RestauranteClasses\bin\Debug\RadioClasses.dll
+C:\Users\cadu-\Desktop\FACULDADE\5 SEMESTRE\RestauranteClasses\bin\Debug\RadioClasses.pdb
+C:\Users\cadu-\Desktop\FACULDADE\5 SEMESTRE\RestauranteClasses\obj\Debug\RestauranteClasses.csproj.CoreCompileInputs.cache
+C:\Users\cadu-\Desktop\FACULDADE\5 SEMESTRE\RestauranteClasses\obj\Debug\RadioClasses.dll
+C:\Users\cadu-\Desktop\FACULDADE\5 SEMESTRE\RestauranteClasses\obj\Debug\RadioClasses.pdb
+C:\Users\cadu-\Desktop\FACULDADE\5 SEMESTRE\RestauranteAPI\RestauranteClasses\bin\Debug\RadioClasses.dll
+C:\Users\cadu-\Desktop\FACULDADE\5 SEMESTRE\RestauranteAPI\RestauranteClasses\bin\Debug\RadioClasses.pdb
+C:\Users\cadu-\Desktop\FACULDADE\5 SEMESTRE\RestauranteAPI\RestauranteClasses\obj\Debug\RestauranteClasses.csproj.AssemblyReference.cache
+C:\Users\cadu-\Desktop\FACULDADE\5 SEMESTRE\RestauranteAPI\RestauranteClasses\obj\Debug\RestauranteClasses.csproj.CoreCompileInputs.cache
+C:\Users\cadu-\Desktop\FACULDADE\5 SEMESTRE\RestauranteAPI\RestauranteClasses\obj\Debug\RadioClasses.dll
+C:\Users\cadu-\Desktop\FACULDADE\5 SEMESTRE\RestauranteAPI\RestauranteClasses\obj\Debug\RadioClasses.pdb

@@ -1,0 +1,12 @@
+C:\Users\cadu-\Desktop\FACULDADE\4 SEMESTRE\APIRadio\RadioClasses\bin\Debug\RadioClasses.dll
+C:\Users\cadu-\Desktop\FACULDADE\4 SEMESTRE\APIRadio\RadioClasses\bin\Debug\RadioClasses.pdb
+C:\Users\cadu-\Desktop\FACULDADE\4 SEMESTRE\APIRadio\RadioClasses\obj\Debug\RadioClasses.csproj.CoreCompileInputs.cache
+C:\Users\cadu-\Desktop\FACULDADE\4 SEMESTRE\APIRadio\RadioClasses\obj\Debug\RadioClasses.dll
+C:\Users\cadu-\Desktop\FACULDADE\4 SEMESTRE\APIRadio\RadioClasses\obj\Debug\RadioClasses.pdb
+C:\Users\cadu-\Desktop\FACULDADE\4 SEMESTRE\APIRadio\RadioClasses\obj\Debug\RadioClasses.csproj.AssemblyReference.cache
+C:\Users\cadu-\Desktop\FACULDADE\5 SEMESTRE\APIRadio\RadioClasses\bin\Debug\RadioClasses.dll
+C:\Users\cadu-\Desktop\FACULDADE\5 SEMESTRE\APIRadio\RadioClasses\bin\Debug\RadioClasses.pdb
+C:\Users\cadu-\Desktop\FACULDADE\5 SEMESTRE\APIRadio\RadioClasses\obj\Debug\RadioClasses.csproj.AssemblyReference.cache
+C:\Users\cadu-\Desktop\FACULDADE\5 SEMESTRE\APIRadio\RadioClasses\obj\Debug\RadioClasses.csproj.CoreCompileInputs.cache
+C:\Users\cadu-\Desktop\FACULDADE\5 SEMESTRE\APIRadio\RadioClasses\obj\Debug\RadioClasses.dll
+C:\Users\cadu-\Desktop\FACULDADE\5 SEMESTRE\APIRadio\RadioClasses\obj\Debug\RadioClasses.pdb
